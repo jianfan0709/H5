@@ -1,0 +1,23 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "关于我学习H5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jianfan0709/H5.git"
+  },
+  "author": "rena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jianfan0709/H5/issues"
+  },
+  "homepage": "https://github.com/jianfan0709/H5#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.2"
+  }
+}
